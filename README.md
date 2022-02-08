@@ -13,3 +13,6 @@ Feb 4th, 2022
 
 # license 
 Disctributed under the MIT License. See `LICENSE.txt` for more information.
+
+# scrum master
+Justin Workman
