@@ -1,6 +1,4 @@
 # notifications-for-sporting-events
-
-# description
 This project is designed for users to have easy access to notable sporting events as soon as they happen. A user can tailor their notifications to the sports/players of their choice. Some options for tailored categories will be: NFL, NBA, MLB, NHL, MLS, etc.
 
 Once a user has subscribed to a particular category, they will receive notifications via the app's interface for notable events within that category. See `examples` for what notifications will look like on the user end. 
