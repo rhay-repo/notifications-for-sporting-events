@@ -1,9 +1,50 @@
-# notifications-for-sporting-events
+<div id="top"></div>
+
+# Notifications for Sporting Events
+  
 This project is designed for users to have easy access to notable sporting events as soon as they happen. A user can tailor their notifications to the sports/players of their choice. Some options for tailored categories will be: NFL, NBA, MLB, NHL, MLS, Olympics etc.
+<br />
+<br />
+<br />
 
-Once a user has subscribed to a particular category, they will receive notifications via the app's interface for notable events within that category. See `examples` for what notifications will look like on the user end. 
+</div>
 
-# examples
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+<br />
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+Scrum Master: Justin Workman
+
+About the project... (POPULATE)
+<br />
+
+Once a user has subscribed to a particular category, they will receive notifications via the app's interface for notable events within that category. See below for examples of what notifications will look like on the user end. 
+
 NBA notifications:
 ```bash
 NBA: Luka Doncic (Mavericks) recorded his 44th career triple double against the 76ers.
@@ -16,9 +57,68 @@ MLB: Tyler Gilbert (Diamondbacks) threw a no-hitter against the Indians.
 Final: 3-0 Brewers
 Sept 11th, 2021
 ```
+<br />
+<br />
 
-# license 
-Disctributed under the MIT License. See `LICENSE.txt` for more information.
+### Built With
 
-# scrum master
-Justin Workman
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. (REPLACE THESE WITH ONES THAT WE USE AS WE GO)
+
+* [Next.js](https://nextjs.org/) (Replace)
+* [React.js](https://reactjs.org/) (Replace)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps. (NEEDS TO BE POPULATED)
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them. (UPDATE AS WE GO)
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+_Fill in installation instructions here..._
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com (POPULATE)
+
+Project Link: [https://github.com/rhay-repo/notifications-for-sporting-events](https://github.com/rhay-repo/notifications-for-sporting-events)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. (UPDATE AS WE GO)
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
