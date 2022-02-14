@@ -104,10 +104,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Justin Workman - [@jworkman04](https://twitter.com/jworkman04) - workma3@clemson.edu 
+
 Reagan Hay ...
+
 Casey O'Reilly ...
+
 Sai Krishna ...
 
+<br />
 
 Project Link: [https://github.com/rhay-repo/notifications-for-sporting-events](https://github.com/rhay-repo/notifications-for-sporting-events)
 
