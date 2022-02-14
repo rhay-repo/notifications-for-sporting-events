@@ -40,7 +40,6 @@ This project is designed for users to have easy access to notable sporting event
 
 Scrum Master: Justin Workman
 
-About the project... (POPULATE)
 <br />
 
 Once a user has subscribed to a particular category, they will receive notifications via the app's interface for notable events within that category. See below for examples of what notifications will look like on the user end. 
@@ -104,7 +103,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com (POPULATE)
+Justin Workman - [@jworkman04](https://twitter.com/jworkman04) - workma3@clemson.edu 
+Reagan Hay ...
+Casey O'Reilly ...
+Sai Krishna ...
+
 
 Project Link: [https://github.com/rhay-repo/notifications-for-sporting-events](https://github.com/rhay-repo/notifications-for-sporting-events)
 
@@ -117,8 +120,7 @@ Project Link: [https://github.com/rhay-repo/notifications-for-sporting-events](h
 
 Use this space to list resources you find helpful and would like to give credit to. (UPDATE AS WE GO)
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+...
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
