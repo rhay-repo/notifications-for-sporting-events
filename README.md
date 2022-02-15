@@ -105,7 +105,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Justin Workman - [@jworkman04](https://twitter.com/jworkman04) - workma3@clemson.edu 
 
-Reagan Hay ...
+Reagan Hay ... reaganjhay@gmail.com
 
 Casey O'Reilly ...
 
