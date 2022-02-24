@@ -40,6 +40,9 @@ This project is designed for users to have easy access to notable sporting event
 
 Scrum Master: Justin Workman
 
+
+Link to wireframe brainstorming: [https://docs.google.com/document/d/1mq4aFgvKD-x4FO5YJVDIA3SldW2WcfKEo-dMPGGhOcQ/edit?usp=sharing](https://docs.google.com/document/d/1mq4aFgvKD-x4FO5YJVDIA3SldW2WcfKEo-dMPGGhOcQ/edit?usp=sharing)
+
 <br />
 
 Once a user has subscribed to a particular category, they will receive notifications via the app's interface for notable events within that category. See below for examples of what notifications will look like on the user end. 
