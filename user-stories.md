@@ -10,7 +10,7 @@ As a user, I can unfavorite a team at any time so that I can no longer receive n
 
 As a user, I can view the homepage which contains all information available on the web app.
 
-As a user, I can view my favorites so that I can see the information I want to see
+As a user, I can view my favorites so that I can easily see just the information I want to see.
 
 As a user, I can view recent events so that I can stay up to date on notable sporting events. 
 
@@ -20,7 +20,7 @@ As a user, I can un-mute notifications at any time so that I can receive notific
 
 As a user, I can search for any team, sport, or player so that I can find information about that specific thing. 
 
-As a user, I can view my account information so that I can make changes to my prefferences. 
+As a user, I can view my account information so that I can make changes to my preferences. 
 
 As a user, I can view just one sport at a time so that I can see results just related to that one sport.
 
