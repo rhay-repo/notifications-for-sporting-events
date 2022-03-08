@@ -110,7 +110,7 @@ Justin Workman - [@jworkman04](https://twitter.com/jworkman04) - workma3@clemson
 
 Reagan Hay - reaganjhay@gmail.com
 
-Casey O'Reilly ...
+Casey O'Reilly - ceoreil@g.clemson.edu
 
 Sai Krishna - saikrim@clemson.edu
 
