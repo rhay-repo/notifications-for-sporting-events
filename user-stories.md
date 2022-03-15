@@ -1,6 +1,6 @@
 # list of user stories
 
-- [] As a user, I can register an account so that I can have notifications specific to my interests.
+- [ ] As a user, I can register an account so that I can have notifications specific to my interests.
 
 - [] As a user, I can log in to my account so that I can see my notifications.
 
