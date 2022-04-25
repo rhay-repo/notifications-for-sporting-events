@@ -30,7 +30,6 @@ This project is designed for users to have easy access to notable sporting event
     </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 <br />
@@ -117,17 +116,5 @@ Sai Krishna - saikrim@clemson.edu
 <br />
 
 Project Link: [https://github.com/rhay-repo/notifications-for-sporting-events](https://github.com/rhay-repo/notifications-for-sporting-events)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. (UPDATE AS WE GO)
-
-...
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
