@@ -17,5 +17,52 @@
   <div align="center">
     <button type="submit" class="btn btn-primary">Add Note</button>
   </div>
-</form>
+</form> 
+
+<!-- new file -->
+
+    <h1>Sports Games</h1>
+    <script language = "javascript" type = "text/javascript">
+        let yourDate = new Date()
+        let date = yourDate.toISOString().split('T')[0]
+        var htmlCall = "https://api.sportsdata.io/v3/nba/scores/json/GamesByDate/" + yourDate.toISOString().split('T')[0] + "?key=263917c8d8754c95b4b3971c110d89bc"
+        
+        // schedules and game day info
+        // var htmlCall2 = "https://api.sportsdata.io/v3/nba/scores/json/CurrentSeason" + "?key=263917c8d8754c95b4b3971c110d89bc"
+        
+        // fetchAndLog() makes the API call and prints it to the webpage
+        const fetchAndLog = async () => {
+            const response = await fetch(htmlCall);
+            const json = await response.json();
+            // just log �json�
+            console.log(json);
+
+            // saves the json return data as a string
+            var str = JSON.stringify(json, null, 2);
+
+            // prints the string
+            document.write(str);
+        }
+        
+
+        // var str = JSON.stringify(json, null, 2);
+
+        // document.write(str);
+    </script>
+
+    <button type="button" onclick="fetchAndLog()">Show me the Schedules and Game Day info!</button>
+
+    <!-- <script language = "javascript" type = "text/javascript">
+      let yourDate = new Date()
+      let date = yourDate.toISOString().split('T')[0]
+      var htmlCall = "https://api.sportsdata.io/v3/nba/scores/json/GamesByDate/" + yourDate.toISOString().split('T')[0] + "?key=263917c8d8754c95b4b3971c110d89bc"
+      fetch(htmlCall)
+        .then(response => {
+          return response.json();
+        })
+        .then(users => {
+          console.log(users);
+        });
+    </script> -->
+
 {% endblock %}
