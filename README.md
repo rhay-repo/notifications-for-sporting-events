@@ -106,7 +106,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Justin Workman - [@jworkman04](https://twitter.com/jworkman04) - workma3@clemson.edu 
+Justin Workman - workma3@clemson.edu 
 
 Reagan Hay - reaganjhay@gmail.com
 
