@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# Notifications for Sporting Events
+# MLSN (Major League Sports Notifications)
   
 This project is designed for users to have easy access to notable sporting events as soon as they happen. A user can tailor their notifications to the sports/players of their choice. Some options for tailored categories will be: NFL, NBA, MLB, NHL, MLS, Olympics etc.
 <br />
