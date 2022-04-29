@@ -40,7 +40,23 @@ This project is designed for users to have easy access to notable sporting event
 Scrum Master: Justin Workman
 
 
-Link to wireframe brainstorming: [https://docs.google.com/document/d/1mq4aFgvKD-x4FO5YJVDIA3SldW2WcfKEo-dMPGGhOcQ/edit?usp=sharing](https://docs.google.com/document/d/1mq4aFgvKD-x4FO5YJVDIA3SldW2WcfKEo-dMPGGhOcQ/edit?usp=sharing)
+Account Page Wireframe:
+![Account Page](Wireframes/AccountPageWireframe.png)
+
+Favorites Page Wireframe:
+![Favorites Page](Wireframes/FavoritesPageWireframe.png)
+
+Home Page Wireframe: 
+![Home Page](Wireframes/HomePageWireframe.png)
+
+Individual Sports Page Wireframe:
+![Individual Sports Page](Wireframes/IndivSportsWireframe.png)
+
+Notable Games Page Wireframe: <br />
+![Notable Games Page](Wireframes/NotableGamesWireframe.png)
+
+Recent Events Page Wireframe: <br />
+![Recent Events Page](Wireframes/RecentEventsWireframe.png)
 
 <br />
 
