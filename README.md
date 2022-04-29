@@ -17,9 +17,6 @@ This project is designed for users to have easy access to notable sporting event
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -40,6 +37,8 @@ This project is designed for users to have easy access to notable sporting event
 Scrum Master: Justin Workman
 
 
+Below you can find various wireframes that were created during the brainstorming phase. While we did not end up implementing a majority of these pages, we still would like to someday implement them. 
+
 Account Page Wireframe:
 ![Account Page](Wireframes/AccountPageWireframe.png)
 
@@ -59,8 +58,10 @@ Recent Events Page Wireframe: <br />
 ![Recent Events Page](Wireframes/RecentEventsWireframe.png)
 
 <br />
+<br />
+<br />
 
-Once a user has subscribed to a particular category, they will receive notifications via the app's interface for notable events within that category. See below for examples of what notifications will look like on the user end. 
+Once a user has subscribed to a particular category, they will receive notifications via the app's interface for notable events within that category. See below for examples of what notifications will look like on the user end. (THESE EXAMPLES NEED TO BE CHANGED)
 
 NBA notifications:
 ```bash
@@ -77,26 +78,14 @@ Sept 11th, 2021
 <br />
 <br />
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. (REPLACE THESE WITH ONES THAT WE USE AS WE GO)
-
-* [Next.js](https://nextjs.org/) (Replace)
-* [React.js](https://reactjs.org/) (Replace)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps. (NEEDS TO BE POPULATED)
+Before you get started, you will need to ensure you have the following prerequisites installed...
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them. (UPDATE AS WE GO)
+(Example template, delete this sentence when finished...)
 * npm
   ```sh
   npm install npm@latest -g
