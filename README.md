@@ -86,7 +86,7 @@ Sept 11th, 2021
 
 The web application can currently be reached at the EC2 instance right now at:
 
-[http://http://44.203.24.239:8080/](http://http://44.203.24.239:8080/)
+[http://44.203.24.239:8080/](http://44.203.24.239:8080/)
 
 <br />
 
