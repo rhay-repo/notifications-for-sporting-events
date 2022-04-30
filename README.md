@@ -81,20 +81,22 @@ Sept 11th, 2021
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Before you get started, you will need to ensure you have the following prerequisites installed...
-
-### Prerequisites
-
-(Example template, delete this sentence when finished...)
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
-_Fill in installation instructions here..._
+The web application can currently be reached at the EC2 instance right now at:
 
+[http://http://44.203.24.239:8080/](http://http://44.203.24.239:8080/)
+
+<br />
+
+If the application server happens to go down, follow these steps to run the application locally from your own machine:
+
+* Clone the repository locally to your machine.
+* Run the main.py file to launch the local development server and follow the local IP address that you’re prompted with.
+* Interact with the application and enjoy!
+
+  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
