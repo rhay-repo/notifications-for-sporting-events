@@ -20,10 +20,6 @@ This project is designed for users to have easy access to notable sporting event
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -60,24 +56,6 @@ Recent Events Page Wireframe: <br />
 <br />
 <br />
 <br />
-
-Once a user has subscribed to a particular category, they will receive notifications via the app's interface for notable events within that category. See below for examples of what notifications will look like on the user end. (THESE EXAMPLES NEED TO BE CHANGED)
-
-NBA notifications:
-```bash
-NBA: Luka Doncic (Mavericks) recorded his 44th career triple double against the 76ers.
-Final: 107-98 Mavericks
-Feb 4th, 2022
-```
-MLB notifications:
-```bash
-MLB: Tyler Gilbert (Diamondbacks) threw a no-hitter against the Indians.
-Final: 3-0 Brewers
-Sept 11th, 2021
-```
-<br />
-<br />
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
